@@ -29,3 +29,13 @@ Github Desktop 是 Github 官方出品的一款图形化的 Git 客户端。尽�
 - 功能相对简单，不适合复杂的 Git 操作
 - 只支持少量 Git 配置
 - 不支持 Linux 系统
+
+### 安装
+
+从 [Github Desktop 官网](https://desktop.github.com/) 下载安装包，安装即可。
+
+安装后，你需要登录 [Github 账号](https://github.com/login)。Github 官网经常被 DNS 污染，必要时请使用代理。
+
+### 使用教程
+
+- 官方文档：[Github Desktop 文档](https://docs.github.com/zh/desktop)
